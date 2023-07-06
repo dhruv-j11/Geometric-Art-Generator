@@ -15,7 +15,7 @@
 
 body{
     height: 100vh;
-    background: radial-gradient(#01191a 20%, #160000 90%);
+    background: linear-gradient(#01191a 20%, #160000 90%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,7 +30,7 @@ body{
     padding: 12px;
     gap: 10px;
     border-radius: 10px;
-    box-shadow: 0 0px 20px rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0px 200px rgba(255, 255, 255, 0.2);
 }
 
 .container div{
@@ -51,7 +51,7 @@ button{
     font-family: 'Poppins', sans-serif;
     font-size: 5.5vmin;
     border-radius: 10px;
-    box-shadow: 0 0px 20px rgba(255, 255, 255, 0.9);
+    box-shadow: 0 0px 200px rgba(255, 255, 255, 0.3);
 }
 
 
